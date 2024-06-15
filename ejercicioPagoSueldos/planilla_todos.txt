@@ -1,0 +1,14 @@
+Nombre y apellido: Evelyn belen
+Cargo: analista de datos
+Sueldo bruto: 1000000
+Descuento de salud: 700000.0
+Descuento de afp: 120000.0
+Liquido a pagar: 180000.0
+
+Nombre y apellido: paulina
+Cargo: desarrollador
+Sueldo bruto: 1000000
+Descuento de salud: 700000.0
+Descuento de afp: 120000.0
+Liquido a pagar: 180000.0
+
